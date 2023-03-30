@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Credits to: https://www.lets-talk-about.tech/2018/03/display-images-in-line-with-terminal.html
 # tmux requires unrecognized OSC sequences to be wrapped with DCS tmux;
 # <sequence> ST, and for all ESCs in <sequence> to be replaced with ESC ESC. It
 # only accepts ESC backslash for ST. We use TERM instead of TMUX because TERM
