@@ -1,3 +1,7 @@
+Important:
+-------------
+This is currently working only with the dev version of Vault. It is my first month with HashiCorp and I am using that as a workbench.
+
 What is what:
 -------------
 vault-totp: Main script that generates the barcode
